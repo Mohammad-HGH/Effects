@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    width: 1920px;
+    height: 579px;
+    background-color: #0F0E0E;
+    justify-content: center;
+    align-items: center;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+
+.head-title {
+    font-family: Kalameh;
+    font-weight: 700;
+    font-size: 65pt;
+    padding-top: 130px;
+    color: #fff;
+}
+
+.head-text {
+    font-family: Shabnam;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 29px;
+    color: #BABABA;
+    padding: 0px 350px 0px;
+    text-align: justify;
+}
+
+.scroll {
+    width: 12px;
+    height: 30px;
+    border: 2px solid #fff;
+    border-radius: 43px;
+    margin-right: 951px;
+    margin-top: 81px;
+}
+
+.circle {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    border: 1px solid #fcbf49;
+    background-color: #FCBF49;
+    margin-right: 955px;
+    margin-top: -14px;
+    animation: circle 0.4s ease infinite alternate;
+}
+
+@keyframes circle {
+    0% {
+        margin-top: -14px;
+        opacity: 1;
+    }
+    100% {
+        margin-top: -20px;
+        opacity: 0.8;
+    }
+}

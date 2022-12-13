@@ -1,0 +1,61 @@
+@font-face {
+    font-family: Kalameh;
+    src: url(assets/Fonts/KalamehWeb-Thin.eot);
+    src: url(assets/Fonts/KalamehWeb-Thin.woff);
+    src: url(assets/Fonts/KalamehWeb-Thin.woff2);
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: Kalameh;
+    src: url(assets/Fonts/KalamehWeb-Regular.eot);
+    src: url(assets/Fonts/KalamehWeb-Regular.woff);
+    src: url(assets/Fonts/KalamehWeb-Regular.woff2);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: Kalameh;
+    src: url(assets/Fonts/KalamehWeb-Bold.eot);
+    src: url(assets/Fonts/KalamehWeb-Bold.woff);
+    src: url(KalamehWeb-Bold.woff2);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: Kalameh;
+    src: url(assets/Fonts/KalamehWeb-Black.eot);
+    src: url(assets/Fonts/KalamehWeb-Black.woff);
+    src: url(assets/Fonts/KalamehWeb-Black.woff2);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Shabnam;
+    src: url(assets/Fonts/Shabnam-Thin.ttf);
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: Shabnam;
+    src: url(assets/Fonts/Shabnam-Light);
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: Shabnam;
+    src: url(assets/Fonts/Shabnam.ttf);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: Shabnam;
+    src: url(assets/Fonts/Shabnam-Medium.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: Shabnam;
+    src: url(assets/Fonts/Shabnam-Bold.ttf);
+    font-weight: bold;
+}
